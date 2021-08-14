@@ -19,18 +19,18 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=rodrigogk87&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogk87&hide=html&hide_title=true&hide_border=true&count_private=false&layout=compact&langs_count=6,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=rodrigogk87&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogk87&hide=html&hide_title=true&hide_border=true&count_private=false&layout=compact&langs_count=6,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 
-<a href="https://github.com/rodrigogk87">
+<a href="https://github.com/rodrigogk87/orbs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigogk87&repo=orbs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/rodrigogk87">
+<a href="https://github.com/rodrigogk87/UpgradablesContracts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigogk87&repo=UpgradablesContracts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-<a href="https://github.com/rodrigogk87">
+<a href="https://github.com/rodrigogk87/TradingBot_Freqtrade">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigogk87&repo=TradingBot_Freqtrade&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-<a href="https://github.com/rodrigogk87">
+<a href="https://github.com/rodrigogk87/Simple-Dex-Solidity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigogk87&repo=Simple-Dex-Solidity&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
