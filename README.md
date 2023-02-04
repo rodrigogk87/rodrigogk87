@@ -4,7 +4,7 @@
 
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![Node](https://img.shields.io/badge/-Node-000?&logo=Node.Js)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=LARAVEL)
+![Rust](https://img.shields.io/badge/-rust-000?&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -13,8 +13,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-
 
 
 ## &#x1f4c8; GitHub Stats
