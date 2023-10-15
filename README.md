@@ -1,4 +1,3 @@
-[![](https://www.jmmnews.com/wp-content/uploads/2015/11/lightpoint-network-banner-1140x410.jpg)]()<!-- If you want the template for my gif, email me! -->
 
 ### Languages & Technologies
 
